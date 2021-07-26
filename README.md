@@ -30,7 +30,8 @@ The aim of this project is:
   <br>
   
   Although such a feature already exists in open libraries of languages such as Python. The goal of the project is to learn implementing these algorithm without using pre-made libraries.
-  <hr>
+<hr>
+
 ### Project 2 : Camera Projections using 2 cameras with known seperation
 The aim of this project is:
 <ul> 
